@@ -1,0 +1,2 @@
+cd /home/jluo80/Desktop/Project4a
+python autograder.py -t test_cases/q1/getAttr1.test
