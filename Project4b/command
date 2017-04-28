@@ -1,0 +1,4 @@
+cd /home/jluo80/Desktop/Project 4b
+python autograder.py -q q2
+python autograder.py -t test_cases/q1/sigmoid1.test
+python autograder.py -t test_cases/q4/1-ParticleObserve
